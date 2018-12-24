@@ -1,0 +1,19 @@
+node_modules/
+.DS_Store
+.idea
+coverage/
+.env
+
+# Xcode
+ios/build/
+ios/Pods/
+ios/kapmug.xcodeproj/xcuserdata
+ios/kapmug.xcworkspace/xcuserdata
+ios/kapmug.xcodeproj/project.xcworkspace/xcuserdata
+
+# Android Studio
+.gradle
+/android/local.properties
+/android/build/
+/android/app/build/
+/android/.gradle
